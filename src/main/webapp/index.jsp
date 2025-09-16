@@ -24,5 +24,8 @@
 <h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
     Succesfully Completed Jenkins Freestyle Deployment!!!
 </h1>
+<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+   Nivas 1
+</h1>
 </body>
 </html>
